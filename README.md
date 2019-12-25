@@ -8,7 +8,7 @@ frida视频教程
 * 第五课 java高级部分下(参数系统类型问题、参数容器类型问题、遍历容器问题、返回值容器类型问题、容器修改问题、class_trace实现)
 * 第六课 c/c++ so层 模块got表遍历、模块plt表遍历、got表函数hook、plt表函数hook、自导出函数hook
 * 第七课 c/c++ so高级部分上 未导出函数hook、函数返回值改问题、获取指针参数的返回值问题、修改内存数据
-* 第八课 c/c++ so高级部分下 JNIEnv函数hook、主要调用JNIEnv函数、JNIEnv_trace实现)
+* 第八课 c/c++ so高级部分下 JNIEnv函数hook、主动调用JNIEnv函数、JNIEnv_trace实现)
 * 第九课 frida android中的一些实例 socket_trace、java常用算法trace、ssl_trace
 ## ios篇
 
