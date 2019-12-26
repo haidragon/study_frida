@@ -26,4 +26,4 @@ frida视频教程
 * ![avatar](https://github.com/haidragon/study_frida/blob/master/image/751577370927_.pic_thumb.jpg)
 
 
-* ![avatar](https://github.com/haidragon/study_frida/blob/master/image/751577370927_.pic_thumb.jpg)
+* ![avatar](https://github.com/haidragon/study_frida/blob/master/image/751577370927_.pic.jpg)
