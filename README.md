@@ -1,6 +1,7 @@
 # study_frida
 frida视频教程
 * 第一课 frida 环境搭建
+* 链接: https://pan.baidu.com/s/19SjTTYsimjHNkmspovbdEg 提取码: k83i
 ## android篇
 * 第二课 遍历进程中所有模块信息(名称、基址等等)、所有java类、类所有函数
 * 第三课 hook静态函数、hook成员函数、hook受保护的函数、枚举类中所有构造函数、hook构造函数、有参函数hook
