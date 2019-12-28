@@ -14,6 +14,7 @@ frida视频教程
 * 第六课 c/c++ so层模块复习 模块got表遍历、got表函数hook、导出函数hook、 导出未加extern函数hook
 * 链接: https://pan.baidu.com/s/1OeYbYBBsQRHWgkdoGbuDlQ 提取码: gdvt  
 * 第七课 c/c++ so高级部分上 未导出函数hook、函数返回值改问题、获取指针参数的返回值问题、修改内存数据
+* 链接: https://pan.baidu.com/s/1sJLn1Layc6sS3sC0eysgGQ 提取码: rt5p
 * 第八课 c/c++ so高级部分下 JNIEnv函数hook、主动调用JNIEnv函数、JNIEnv_trace实现)
 * 第九课 frida android中的一些实例 socket_trace、java常用算法trace、ssl_trace
 ## ios篇
