@@ -1,5 +1,4 @@
 # study_frida  
-* b站 地址：https://space.bilibili.com/411849899
 frida视频教程
 * 第一课 frida 环境搭建
 * 链接: https://pan.baidu.com/s/19SjTTYsimjHNkmspovbdEg 提取码: k83i
@@ -20,6 +19,7 @@ frida视频教程
 
 
 # 视频持续更新.......  
+* 已上传 b站 地址：https://space.bilibili.com/411849899
 * qq交流群 
 * 309262570
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
