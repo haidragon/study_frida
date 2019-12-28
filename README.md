@@ -1,4 +1,5 @@
-# study_frida
+# study_frida  
+* b站 地址：https://space.bilibili.com/411849899
 frida视频教程
 * 第一课 frida 环境搭建
 * 链接: https://pan.baidu.com/s/19SjTTYsimjHNkmspovbdEg 提取码: k83i
