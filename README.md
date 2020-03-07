@@ -23,7 +23,14 @@ frida视频教程
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
-* study_protocol_analysis https://github.com/haidragon/study_protocol_analysis
+* study_exploits https://github.com/haidragon/study_exploits
+* study_executable_file_formats https://github.com/haidragon/study_executable_file_formats
+* study_computer_forensics https://github.com/haidragon/study_computer_forensics
+* study_anti_rootkit https://github.com/haidragon/study_anti_rootkit
+* study_file_filter https://github.com/haidragon/study_file_filter
+* study_injection_and_hook https://github.com/haidragon/study_injection_and_hook
+* study_reverse_analysis https://github.com/haidragon/study_reverse_analysis
+* study_tools https://github.com/haidragon/study_tools
 * study_Xposed https://github.com/haidragon/study_Xposed
 * study_firewall https://github.com/haidragon/study_firewall
 * study_obscure https://github.com/haidragon/study_obscure
