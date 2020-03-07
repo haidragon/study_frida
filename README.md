@@ -23,6 +23,7 @@ frida视频教程
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
+* study_protocol_analysis https://github.com/haidragon/study_protocol_analysis
 * study_Xposed https://github.com/haidragon/study_Xposed
 * study_firewall https://github.com/haidragon/study_firewall
 * study_obscure https://github.com/haidragon/study_obscure
