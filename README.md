@@ -31,6 +31,7 @@ frida视频教程
 * study_injection_and_hook https://github.com/haidragon/study_injection_and_hook
 * study_reverse_analysis https://github.com/haidragon/study_reverse_analysis
 * study_tools https://github.com/haidragon/study_tools
+* study_exceptions_and_debugging https://github.com/haidragon/study_exceptions_and_debugging
 * study_Xposed https://github.com/haidragon/study_Xposed
 * study_firewall https://github.com/haidragon/study_firewall
 * study_obscure https://github.com/haidragon/study_obscure
