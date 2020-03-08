@@ -23,6 +23,7 @@ frida视频教程
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
+* study_tweak https://github.com/haidragon/study_tweak
 * study_exploits https://github.com/haidragon/study_exploits
 * study_executable_file_formats https://github.com/haidragon/study_executable_file_formats
 * study_computer_forensics https://github.com/haidragon/study_computer_forensics
