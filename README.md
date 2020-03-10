@@ -16,7 +16,9 @@ frida视频教程
 * 第七课 c/c++ so高级部分上 未导出函数hook、函数返回值改问题、获取指针参数的返回值问题、修改内存数据
 * 链接: https://pan.baidu.com/s/1sJLn1Layc6sS3sC0eysgGQ 提取码: rt5p
 * 第八课 c/c++ so高级部分下 JNIEnv函数hook、主动调用JNIEnv函数、JNIEnv_trace实现)
+* https://github.com/haidragon/study_frida/blob/master/study_frida/ch8/ch8.md
 * 第九课 frida android中的一些实例 socket_trace、java常用算法trace、ssl_trace
+* https://github.com/haidragon/study_frida/blob/master/study_frida/ch9/ch9.md
 ## ios篇
 
 
