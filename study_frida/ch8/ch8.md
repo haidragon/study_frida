@@ -5,7 +5,6 @@
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 ```
-jnitrace 或者 enumerateNativeMethods.js
-pip3 install  jnitrace
-jnitrace -l libnative-lib.so  com.example.test
+![](./images/1.png)
+![](./images/2.png)
 
