@@ -20,8 +20,10 @@ frida视频教程
 * 第九课 frida android中的一些实例 socket_trace、java常用算法trace、ssl_trace
 * https://github.com/haidragon/study_frida/blob/master/study_frida/ch9/ch9.md
 ## ios篇
-
-
+* 第一课 ios 越狱 
+* https://github.com/haidragon/study_reverse_analysis
+* 第二课 frida砸壳
+* https://github.com/haidragon/study_frida/blob/master/study_frida/ios/ch1.md
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
