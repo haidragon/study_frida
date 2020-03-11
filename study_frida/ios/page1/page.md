@@ -11,9 +11,10 @@ sudo pip3 install -r /opt/dump/frida-ios-dump/requirements.txt --upgrade
 ```
 安装frida-tools 6.0.1版本 
 pip install frida-tools==6.0.1
-![](./images/5.png)
+![](./images/1.png)
 修改dump端口与密码
-![](./images/6.png)
+![](./images/2.png)
 解锁手机开始砸壳
+![](./images/3.png)
 
 
