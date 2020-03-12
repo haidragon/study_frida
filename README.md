@@ -24,6 +24,12 @@ frida视频教程
 * [第四课 hook静态函数、hook成员函数、hook受保护的函数、枚举类中所有构造函数、hook构造函数、有参函数hook](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page4/page.md)
 * 第五课 模块部分 模块导入表遍历、导出表函数hook、导出函数hook、 未导出函数hook
 * 第五课 swift部分
+## 其它集成工具的使用
+* objection
+* Brida
+* passionfruit
+* frida-cycript 
+* ........
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
