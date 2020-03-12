@@ -15,16 +15,13 @@ frida视频教程
 * 链接: https://pan.baidu.com/s/1OeYbYBBsQRHWgkdoGbuDlQ 提取码: gdvt  
 * 第七课 c/c++ so高级部分上 未导出函数hook、函数返回值改问题、获取指针参数的返回值问题、修改内存数据
 * 链接: https://pan.baidu.com/s/1sJLn1Layc6sS3sC0eysgGQ 提取码: rt5p
-* 第八课 c/c++ so高级部分下 JNIEnv函数hook、主动调用JNIEnv函数、JNIEnv_trace实现)
-* https://github.com/haidragon/study_frida/blob/master/study_frida/ch8/ch8.md
-* 第九课 frida android中的一些实例 socket_trace、java常用算法trace、ssl_trace
-* https://github.com/haidragon/study_frida/blob/master/study_frida/ch9/ch9.md
+* [第八课 c/c++ so高级部分下 JNIEnv函数hook、主动调用JNIEnv函数、JNIEnv_trace实现)](https://github.com/haidragon/study_frida/blob/master/study_frida/ch8/ch8.md)
+* [第九课 frida android中的一些实例 socket_trace、java常用算法trace、ssl_trace](https://github.com/haidragon/study_frida/blob/master/study_frida/ch9/ch9.md)
 ## ios篇
-* 第一课 ios 越狱 
-* https://github.com/haidragon/study_reverse_analysis
-* 第二课 frida砸壳
-* https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page1/page.md
-* 第三课 遍历进程中所有模块信息(名称、基址等等)、所有加载类、类所有函数
+* [第一课 ios 越狱](https://github.com/haidragon/study_reverse_analysis) 
+* [第二课 frida砸壳](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page1/page.md)
+* [第三课 遍历进程中所有模块信息(名称、基址等等)、所有加载类、类所有函数](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page3/page.md)
+* 第三课 hook静态函数、hook成员函数、hook受保护的函数、枚举类中所有构造函数、hook构造函数、有参函数hook
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
