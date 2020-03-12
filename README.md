@@ -24,6 +24,7 @@ frida视频教程
 * https://github.com/haidragon/study_reverse_analysis
 * 第二课 frida砸壳
 * https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page1/page.md
+* 第三课 遍历进程中所有模块信息(名称、基址等等)、所有加载类、类所有函数
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
