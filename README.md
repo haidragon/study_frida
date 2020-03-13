@@ -21,8 +21,8 @@ frida视频教程
 * [第一课 ios 越狱](https://github.com/haidragon/study_reverse_analysis) 
 * [第二课 frida砸壳](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page1/page.md)
 * [第三课 遍历进程中所有模块信息(名称、基址等等)、所有加载类、类所有函数](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page3/page.md)
-* [第四课 hook静态函数、hook成员函数、hook受保护的函数、枚举类中所有构造函数、hook构造函数、有参函数hook](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page4/page.md)
-* 第五课 模块部分 模块导入表遍历、导出表函数hook、导出函数hook、 未导出函数hook
+* [第四课 hook objc函数](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page4/page.md)
+* 第五课 hook 模块部分  
 * 第六课 swift部分
 ## 其它集成工具的使用
 * objection
