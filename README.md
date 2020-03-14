@@ -23,7 +23,7 @@ frida视频教程
 * [第三课 遍历进程中所有模块信息(名称、基址等等)、所有加载类、类所有函数](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page3/page.md)
 * [第四课 hook objc函数 静态、动态、私有、遍历类所有函数、函数查找](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page4/page.md)
 * [第五课 hook dylib Framework部分](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page5/page.md) 
-* [第六课 swift部分](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page6/page.md)
+* [第六课 swift部分](https://github.com/haidragon/study_tweak)
 ## 其它集成工具的使用
 * objection
 * Brida
