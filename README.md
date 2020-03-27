@@ -25,11 +25,12 @@ frida视频教程
 * [第五课 hook dylib Framework部分](https://github.com/haidragon/study_frida/blob/master/study_frida/ios/page5/page.md) 
 * [第六课 swift部分](https://github.com/haidragon/study_tweak)
 ## 其它集成工具的使用
-* objection
-* Brida
-* passionfruit
-* frida-cycript 
-* ........
+* [objection](https://github.com/haidragon/study_tools)
+* [Brida](https://github.com/haidragon/study_tools)
+* [passionfruit](https://github.com/haidragon/study_tools)
+* [frida-cycript ](https://github.com/haidragon/study_tools)
+## 利用frida实战
+* xx密约会软件
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
