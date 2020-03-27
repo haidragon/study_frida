@@ -30,7 +30,7 @@ frida视频教程
 * [passionfruit](https://github.com/haidragon/study_tools)
 * [frida-cycript ](https://github.com/haidragon/study_tools)
 ## 利用frida实战
-* xx密约会软件
+* [xx密约会软件](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E7%9B%B8%E4%BA%B2%E5%AF%86.ipa/page.md)
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
