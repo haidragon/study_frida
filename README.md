@@ -36,6 +36,7 @@ frida视频教程
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
+* 按平台分系统性视频教程 github.com/haidragon/haidragon_study
 * 病毒学习 https://github.com/haidragon/study_virus/
 * frida逆向学习 https://github.com/haidragon/study_frida
 * tweak逆向学习 https://github.com/haidragon/study_tweak
