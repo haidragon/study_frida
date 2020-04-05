@@ -34,6 +34,7 @@ frida视频教程
 * [xx约会软件vip破解2](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E4%BC%B4%E5%BF%83%E5%A9%9A%E6%81%8B.ipa/page.md)
 * [xx约会软件vip破解3](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E5%A6%96%E5%A8%86%E4%BA%A4%E5%8F%8B.ipa/page.md)
 * [xx约会软件vip破解4](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E5%8D%88%E5%A4%9C%E6%9C%89%E7%BA%A6.ipa/page.md)
+* [xx约会软件vip破解5](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/iLove%E5%A9%9A%E6%81%8B.ipa/page.md)
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
