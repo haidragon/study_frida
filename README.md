@@ -42,6 +42,7 @@ frida视频教程
 * [xx软件vip破解8](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E6%8E%A2%E6%8E%A2.ipa/page.md)
 ### android
 * [xx软件vip破解1](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/android/%E4%BC%B4%E5%BF%83.apk/page.md)
+* [xx软件vip破解2](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/android/%E7%A7%98%E7%88%B1.apk/page.md)
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
