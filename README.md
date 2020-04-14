@@ -29,7 +29,7 @@ frida视频教程
 * [Brida](https://github.com/haidragon/study_tools)
 * [passionfruit](https://github.com/haidragon/study_tools)
 * [frida-cycript ](https://github.com/haidragon/study_tools)
-## 利用frida实战
+## 利用frida实战 视频教程加vx 2207344074
 ### ios
 * [xx软件vip破解1](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E7%9B%B8%E4%BA%B2%E5%AF%86.ipa/page.md)
 * [xx软件vip破解2](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/%E4%BC%B4%E5%BF%83%E5%A9%9A%E6%81%8B.ipa/page.md)
@@ -44,6 +44,8 @@ frida视频教程
 ### android
 * [xx软件vip破解1](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/android/%E4%BC%B4%E5%BF%83.apk/page.md)
 * [xx软件vip破解2](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/android/%E7%A7%98%E7%88%B1.apk/page.md)
+### mac os x
+* [Archiver.ipa破解](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Archiver.ipa/page.md)
 
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
