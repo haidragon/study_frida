@@ -46,7 +46,7 @@ frida视频教程
 * [xx软件vip破解2](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/android/%E7%A7%98%E7%88%B1.apk/page.md)
 ### mac os x
 * [Archiver实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Archiver.ipa/page.md)
-* [CrossOver实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/ACrossOver_/page.md)
+* [CrossOver实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/ACrossOver_/readme.md)
 * [Reveal实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Reveal/readme.md)
 * [ScreenFlow-9.0.3实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/ScreenFlow-9.0.3/readme.md)
 * [xunjie实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/xunjie/readme.md)
