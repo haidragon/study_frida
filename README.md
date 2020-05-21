@@ -51,6 +51,7 @@ frida视频教程
 * [ScreenFlow-9.0.3实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/ScreenFlow-9.0.3/readme.md)
 * [xunjie实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/xunjie/readme.md)
 * [Sublime Text实战](https://github.com/haidragon/study_frida/tree/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Sublime%20Text/readme.md)
+* [UltraEdit实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Ultra_Edit/readme.md)
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
