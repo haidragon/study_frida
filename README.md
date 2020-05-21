@@ -52,6 +52,7 @@ frida视频教程
 * [xunjie实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/xunjie/readme.md)
 * [Sublime Text实战](https://github.com/haidragon/study_frida/tree/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Sublime%20Text/readme.md)
 * [UltraEdit实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Ultra_Edit/readme.md)
+* [iBoysoftNTFSforMac实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/iBoysoftNTFSforMac/readme.md)
 # 视频持续更新.......  
 * 已上传 b站 地址：https://space.bilibili.com/411849899
 # 其它教程
