@@ -75,6 +75,4 @@ frida视频教程
 * llvm编译器混淆与反混淆学习 https://github.com/haidragon/study_obscure
 * android系统定制学习 https://github.com/haidragon/study_Android_Mchange
 * 协议逆向分析学习 https://github.com/haidragon/study_protocol_analysis
- 
-# 知识星球
-![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
+  
