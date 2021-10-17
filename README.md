@@ -1,4 +1,5 @@
 # 视频教程 https://github.com/haidragon/haidragon_study/
+* 已上传b站 地址：https://space.bilibili.com/411849899
 # study_frida  
 frida视频教程
 * 第一课 frida 环境搭建
@@ -55,8 +56,7 @@ frida视频教程
 * [UltraEdit实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Ultra_Edit/readme.md)
 * [iBoysoftNTFSforMac实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/iBoysoftNTFSforMac/readme.md)
 * [Adobe Photoshop 2020实战](https://github.com/haidragon/study_frida/blob/master/study_frida/frida%E5%AE%9E%E6%88%98/mac/Adobe_Photoshop_2020/readme.md)
-# 视频持续更新.......  
-* 已上传 b站 地址：https://space.bilibili.com/411849899
+
 # 其它教程
 * 病毒学习 https://github.com/haidragon/study_virus/
 * frida逆向学习 https://github.com/haidragon/study_frida
