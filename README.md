@@ -1,6 +1,41 @@
 # 视频教程 https://github.com/haidragon/haidragon_study/
 * 已上传b站 地址：https://space.bilibili.com/411849899
 # study_frida  
+
+# frida 视频教程  
+## android
+* 1.frida 介绍与环境搭建(android)
+* 2.利用frida 获取java类信息
+* 3.利用frida hook java常用方法(成员函数、构造函数、有参函数)
+* 4.利用frida hook java中其它情况(内部类、同名函数、自定义参数)
+* 5.利用frida hook java中常用容器类
+* 6.利用frida 实现 java版 class_trace
+* 7.frida hook native层上(遍历 hook got/plt表、未导出函数)
+* 8.frida hook native层下(函数返回值修改、修改内存数据、指针问题、任意地址hook)
+* 9.frida hook jni(jni函数hook、jni调用)
+* 10.frida RPC远程调用
+* 11.frida android中其它实例(常用工具、socket_trace、算法追踪、脱壳)
+* 12.frida android逆向实战1
+* 13.frida android逆向实战2
+## ios
+* 14.ios越狱	
+* 15.ios越狱环境搭建
+* 16.frida 环境搭建(ios)
+* 17.frida 常用命令使用介绍
+* 18.frida hook Objc常用方法
+* 19.frida hook Objc中常用容器类
+* 20.frida hook native层
+* 21.frida hook 其它情况(任意地址hook、API查找器)
+* 22.frida 主动调用
+* 23.frida hook Swift
+* 24.frida ios中其它实例(常用工具、socket_trace、算法追踪、脱壳)   
+* 25.frida ios逆向实战
+## pc
+* 25.frida pc上环境搭建与使用
+* 26.frida 实战(macOS)
+* 27.frida 实战(windows)
+* 28.frida 实战(linux)
+
 frida视频教程
 * 第一课 frida 环境搭建
 * 链接: https://pan.baidu.com/s/19SjTTYsimjHNkmspovbdEg 提取码: k83i
